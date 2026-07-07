@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jazeljung
+- 👋 This is Jazel from Shanghai, China. FPGA AE of Lattice
 - 👀 I’m interested in basketball, swimming, surfing, traveling.
 - 🌱 I’m currently learning Brain-Computer Interface.
 - 💞️ I’m looking to collaborate on designing hardware of Brain-Computer Interface.
